@@ -57,5 +57,7 @@ npm run dev
 
 ![Screenshot (378)](https://github.com/user-attachments/assets/0243d0f8-5436-4910-9e20-713b60112341)
 
+## Tampilan Barang
+
 ![Screenshot (379)](https://github.com/user-attachments/assets/9c67f14c-fc79-407f-a003-ab6e94fe16e4)
 
