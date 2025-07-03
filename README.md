@@ -52,3 +52,8 @@ npm install
 npm run dev
 ```
 -Aplikasi akan berjalan di `http://localhost:5173`
+
+## Tampilan Dashboard
+
+![Screenshot (378)](https://github.com/user-attachments/assets/0243d0f8-5436-4910-9e20-713b60112341)
+
