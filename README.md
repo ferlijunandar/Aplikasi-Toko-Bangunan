@@ -53,6 +53,7 @@ npm run dev
 ```
 -Aplikasi akan berjalan di `http://localhost:5173`
 
+### ROLE ADMIN
 ## Tampilan Dashboard
 
 ![Screenshot (378)](https://github.com/user-attachments/assets/0243d0f8-5436-4910-9e20-713b60112341)
@@ -61,3 +62,12 @@ npm run dev
 
 ![Screenshot (379)](https://github.com/user-attachments/assets/9c67f14c-fc79-407f-a003-ab6e94fe16e4)
 
+## Tampilan user
+![Screenshot (387)](https://github.com/user-attachments/assets/b37acea7-cfd5-42fd-b8dd-644e045c720a)
+
+### ROLE KASIR
+## Tampilan Dashboard Kasir
+![Screenshot (384)](https://github.com/user-attachments/assets/0a906b74-94d2-4a95-9df7-ac4770b1cd22)
+
+## Tambah Penjualan
+![Screenshot (385)](https://github.com/user-attachments/assets/c925c70b-012b-47fd-98c8-66c9b15f110d)
