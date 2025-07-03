@@ -1,6 +1,0 @@
-{
-  "build": {
-    "env": "node",
-    "rootDir": "server"
-  }
-}
